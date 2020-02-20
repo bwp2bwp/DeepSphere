@@ -14,7 +14,7 @@ The pooling strategy exploits a hierarchical pixelisation of the sphere (HEALPix
 The graph neural network model is based on [ChebNet][gcnn_paper] and its [TensorFlow implementation][gcnn_code].
 The performance of DeepSphere is demonstrated on a discrimination problem: the classification of convergence maps into two cosmological model classes.
 
-Ressources:
+Resources:
 * **blog post**: [DeepSphere: a neural network architecture for spherical data][blog]
 * **paper (cosmo)**: [DeepSphere: Efficient spherical CNN with HEALPix sampling for cosmological applications][paper_cosmo]
 * **paper (ML)**: [DeepSphere: towards an equivariant graph-based spherical CNN][paper_ml]
