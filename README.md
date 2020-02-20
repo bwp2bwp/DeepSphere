@@ -17,7 +17,7 @@ The performance of DeepSphere is demonstrated on a discrimination problem: the c
 Ressources:
 * **blog post**: [DeepSphere: a neural network architecture for spherical data][blog]
 * **paper (cosmo)**: [DeepSphere: Efficient spherical CNN with HEALPix sampling for cosmological applications][paper_cosmo]
-* **paper (ML)**: [DeepSphere: a graph-based spherical CNN with approximate equivariance][paper_ml]
+* **paper (ML)**: [DeepSphere: towards an equivariant graph-based spherical CNN][paper_ml]
 * **slides**: [DeepSphere: Efficient spherical CNN with HEALPix sampling for cosmological applications][slides] ([AIcosmo2019])
 
 [blog]: https://datascience.ch/deepsphere-a-neural-network-architecture-for-spherical-data
