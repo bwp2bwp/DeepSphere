@@ -140,23 +140,29 @@ Please consider citing our papers if you use it.
 
 ```
 @article{deepsphere_cosmo,
-  title = {DeepSphere: Efficient spherical Convolutional Neural Network with HEALPix sampling for cosmological applications},
+  title = {{DeepSphere}: Efficient spherical Convolutional Neural Network with {HEALPix} sampling for cosmological applications},
   author = {Perraudin, Nathana\"el and Defferrard, Micha\"el and Kacprzak, Tomasz and Sgier, Raphael},
   journal = {Astronomy and Computing},
-  year = {2018},
-  archivePrefix = {arXiv},
+  volume = {27},
+  pages = {130-146},
+  year = {2019},
+  month = apr,
+  publisher = {Elsevier BV},
+  issn = {2213-1337},
+  doi = {10.1016/j.ascom.2019.03.004},
+  archiveprefix = {arXiv},
   eprint = {1810.12186},
   url = {https://arxiv.org/abs/1810.12186},
 }
 ```
 
 ```
-@inproceedings{deepsphere_ml,
-  title = {DeepSphere: towards an equivariant graph-based spherical CNN},
+@inproceedings{deepsphere_rlgm,
+  title = {{DeepSphere}: towards an equivariant graph-based spherical {CNN}},
   author = {Defferrard, Micha\"el and Perraudin, Nathana\"el and Kacprzak, Tomasz and Sgier, Raphael},
   booktitle = {ICLR Workshop on Representation Learning on Graphs and Manifolds},
   year = {2019},
-  archivePrefix = {arXiv},
+  archiveprefix = {arXiv},
   eprint = {1904.05146},
   url = {https://arxiv.org/abs/1904.05146},
 }
